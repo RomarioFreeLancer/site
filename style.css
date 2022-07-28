@@ -204,12 +204,19 @@ li{
 	margin: 10px ;
 	color: white;	
 	position: absolute;
-	right: 0;
+	right: 10px;
 	bottom: 0;
-	width: 300px;
+	width: 250px;
 
 	
 }
+.zvonok{
+	width: 100%;
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+}
+
 
 .ico{
 	margin-top: 1%;
@@ -221,11 +228,12 @@ li{
 	text-align: center;
 }
 .time{
-	font-size: 15px;
+	font-size: 11px;
 	color: whitesmoke;
 	opacity: 0.4;
 	text-align:left;
 }
+
 
 .background1{
 	position: relative;
@@ -1095,11 +1103,6 @@ text-decoration: underline skyblue;
 
 
 
-.zvonok{
-	font-size: 26px;
-	color: white;
-	text-decoration: none;
-}
 
 
 
@@ -1161,7 +1164,7 @@ text-decoration: underline skyblue;
 
 .itisnot{
 	opacity: 0.7;
-	max-width: 350px;
+	max-width: 400px;
 	font-size: 17px;
 	margin-top: 20px;
 }
@@ -1221,7 +1224,7 @@ text-decoration: underline skyblue;
 	margin-right: 30px;
 }
 
-/* Для экранов с шириной от 0 до 1170px */
+/* Для экранов с шириной от 0 до 1170px
 @media (max-width: 1170px) {
 	.social-icon-link {
 		margin-right: 15px;
@@ -1229,7 +1232,7 @@ text-decoration: underline skyblue;
 	}
 }
 
-/* ------------------- Footer ------------------- */
+
 
 .footer {
 	padding-top: 5px;
@@ -1268,7 +1271,7 @@ text-decoration: underline skyblue;
 	text-decoration: underline;
 }
 
-/* Для экранов с шириной от 0 до 1170px */
+
 @media (max-width: 1170px) {
 	.footer-cta-title {
 		font-size: 26px;
@@ -1289,7 +1292,7 @@ text-decoration: underline skyblue;
 	text-align: center;
 }
 
-/* Calc */
+
 
 h1,
 h2,
@@ -1300,7 +1303,7 @@ h6 {
 	margin: 0;
 }
 
-/* ------------------- Calc ------------------- */
+
 .calc-wrapper {
 	z-index: 1005000;
 	padding-top: 50px;
@@ -1324,8 +1327,7 @@ h6 {
 	text-align: center;
 }
 
-.heading-desc {
-}
+
 
 .calc-section {
 	padding: 40px 50px;
@@ -1358,8 +1360,8 @@ h6 {
 
 .radio-wrapper {
 	display: flex;
-	/* align-items: center; */
-}
+	
+
 
 .radio-wrapper .radio {
 	margin-top: 9px;
@@ -1380,12 +1382,7 @@ h6 {
 
 .radio-holder input{
 	margin-top: 6px;
-} */
-
-/* .radio {
-	margin-right: 15px;
-} */
-
+} 
 .input-wrapper {
 	display: flex;
 	margin-bottom: 40px;
@@ -1414,7 +1411,7 @@ h6 {
 	margin-left: 20px;
 }
 
-/* ------------ TYPO ------------ */
+
 
 .section-title {
 	margin-bottom: 20px;
@@ -1443,7 +1440,7 @@ h6 {
 	color: #969696;
 }
 
-/* ------------ FORMS ------------ */
+
 
 .checkbox-wrapper {
 	display: flex;
@@ -1454,11 +1451,11 @@ h6 {
 	margin-right: 15px;
 }
 
-/* ------------ PRICE ------------ */
+
 .calc-price {
 
 	padding: 30px 50px;
-	/* border: 10px solid #7ac5ea; */
+
 
 	position: fixed;
 	left: 0;
@@ -1494,8 +1491,7 @@ h6 {
 	align-items: center;
 }
 
-.rooms-label {
-}
+
 .rooms-radio-real {
 	opacity: 0;
 	appearance: none;
@@ -1512,7 +1508,6 @@ h6 {
 	text-align: center;
 	line-height: 50px;
 	font-size: 22px;
-	/* font-weight: bold; */
 	cursor: pointer;
 }
 
@@ -1582,21 +1577,23 @@ h6 {
 		width: 600px;
 	}
 	.ico{
-		width: 50px;
+		margin:0px 30px;
+		width: 15px;
 		display: block;
 	}
 	.phone{
-		margin-left: 5%;
+		margin: 0px 0px;
 		width: 600px;
 		left: 0%;
-		top: 30%;
+		top: 15%;
 	}
 	.zvonok{
+		line-height: 1.5;
 		font-weight: 400px;
-		font-size: 45px;
+		font-size: 30px;
 	}
 	.logo{
-		top: 40%;
+		top: 15%;
 		left: 70%;
 	}
 	.time1{
@@ -1606,7 +1603,7 @@ h6 {
 	.shapka{
 
 		position: relative;
-		height: 200px;
+		height: 100px;
 
 	}
 	.header_nav{
