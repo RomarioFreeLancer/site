@@ -1524,7 +1524,9 @@ h6 {
 
 @media (max-width: 1170px)
 {	
-
+	.popup{
+		z-index: 100500;
+	}
 
 	.boton{
 		font-size: 40px;
