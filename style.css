@@ -1224,7 +1224,7 @@ text-decoration: underline skyblue;
 	margin-right: 30px;
 }
 
-/* Для экранов с шириной от 0 до 1170px
+ Для экранов с шириной от 0 до 1170px
 @media (max-width: 1170px) {
 	.social-icon-link {
 		margin-right: 15px;
