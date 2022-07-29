@@ -49,7 +49,7 @@ li{
 	background:rgb(59, 64, 73);
 	width: 100%;
 
-	position: fixed;
+	position: sticky;
 	top: 0;
 	left: 0;
 	right: 0;
@@ -237,7 +237,7 @@ li{
 	background: linear-gradient(to left,  rgba(0,0,0,1) 0%,rgba(0,0,0,0) 50%)no-repeat fixed,url(jpg/1.jpg) no-repeat top fixed;
 	background-size: cover;
 	background-attachment: scroll;
-	margin-top:70px;
+	margin:0 auto;
 	max-width: 1300px;
 	
 }
@@ -1196,7 +1196,7 @@ text-decoration: underline skyblue;
 	.shapka{
 
 		position: relative;
-		height: 70px;
+		height: 200px;
 
 	}
 	.header_nav{
