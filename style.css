@@ -1105,11 +1105,13 @@ text-decoration: underline skyblue;
 
 @media (max-width: 1170px)
 {	
-	body{
-		width: 1000px;
-	};
-
-
+	
+	.popup__text{
+		z-index: 100500;
+	}
+	.shapka{
+		z-index: 1;
+	}
 	.boton{
 		font-size: 40px;
 	}
