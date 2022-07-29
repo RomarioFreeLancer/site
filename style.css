@@ -237,7 +237,7 @@ li{
 	background: linear-gradient(to left,  rgba(0,0,0,1) 0%,rgba(0,0,0,0) 50%)no-repeat fixed,url(jpg/1.jpg) no-repeat top fixed;
 	background-size: cover;
 	background-attachment: scroll;
-	margin:0 auto;
+	margin-top:70px;
 	max-width: 1300px;
 	
 }
