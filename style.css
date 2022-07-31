@@ -961,10 +961,9 @@ li{
 
 
 .head2{
-		text-transform: uppercase;
-
-	display: flex;
-	flex-wrap: wrap;
+	text-transform: uppercase;
+	display: grid;
+	grid-template-columns: 100px 100px 100px;
 	font-weight: 100;
 	font-size: 18px;
 	text-align: center;
