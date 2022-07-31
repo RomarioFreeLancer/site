@@ -1109,8 +1109,12 @@ text-decoration: underline skyblue;
 
 
 
-@media (max-width: 1170px)
+@media (max-width: 1000px)
 {	
+	body{
+		max-width: 1000px;
+		min-width: 1000px;
+	}
 	
 	.popup__text{
 		z-index: 100500;
