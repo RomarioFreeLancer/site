@@ -4,6 +4,7 @@ body{
 	background-size: cover;
 	margin:0 auto;
 	max-width: 1300px;
+	min-width: 1300px;
 	height: 100%;
 
 }
@@ -1109,7 +1110,7 @@ text-decoration: underline skyblue;
 
 
 
-@media (max-width: 1170px)
+/*@media (max-width: 1170px)
 {	
 	
 	.popup__text{
