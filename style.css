@@ -1108,7 +1108,7 @@ text-decoration: underline skyblue;
 
 
 
-@media (max-width: 1000px)
+@media (max-width: 300px)
 {	
 	body{
 		max-width: 1000px;
