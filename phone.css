@@ -7,7 +7,7 @@
 	.shapka {
         position: static;
         margin: 0 ;
-        height: 70px;
+        height: 10vh;
         width: 100%;
     }
     .logo {
@@ -35,14 +35,17 @@
     .ico {
     }
     .time1 {
+        width: 200px;
     }
     .time {
+        width: 100%;
     }
     .zvonok {
     }
     .background1 {
         margin: 0;
         width: 100%;
+        height: 80vh;
     }
     .header_nav {
         width: 100%;
@@ -161,6 +164,7 @@
     .boton {
     }
     .foot {
+        height: 10vh;
         width: 100%;
     }
     .logo2 {
@@ -184,6 +188,10 @@
     .about16 {
     }
     .phone2 {
+        margin: 0;
+        width: 300px;
+        left: 150px;
+        top: 30px;
     }
     .popup {
     }
