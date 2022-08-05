@@ -1,0 +1,251 @@
+
+@media (max-width: 1000px)
+{	
+
+  body{
+  }
+	.shapka {
+        position: static;
+        margin: 0 ;
+        height: 70px;
+        width: 100%;
+    }
+    .logo {
+    }
+    .head {
+        display: none;
+        width: 100%;
+
+    }
+    .about1 {
+    }
+    .about2 {
+    }
+    .about3 {
+    }
+    .about4 {
+    }
+    .about5 {
+    }
+    .about6 {
+    }
+    .phone {
+        display: none;
+    }
+    .ico {
+    }
+    .time1 {
+    }
+    .time {
+    }
+    .zvonok {
+    }
+    .background1 {
+        margin: 0;
+        width: 100%;
+    }
+    .header_nav {
+        width: 100%;
+      
+    }
+    .main {
+    }
+    .button {
+    }
+    .montash {
+        display: none;
+    }
+    .zagol {
+    }
+    .shyrik {
+    }
+    .shyr {
+    }
+    .push {
+    }
+    .pushka {
+    }
+    .class {
+        display: none;
+    }
+    .look {
+    }
+    .wrapper {
+    }
+    .slider {
+    }
+    .slider-nav {
+    }
+    .slider-nav-item {
+    }
+    .slider_items {
+    }
+    .item {
+    }
+    .s1 {
+    }
+    .coast {
+        display: none;
+    }
+    .way {
+    }
+    .castle {
+    }
+    .img1 {
+    }
+    .fff {
+    }
+    .img2 {
+    }
+    .img3 {
+    }
+    .img4 {
+    }
+    .img5 {
+    }
+    .img6 {
+    }
+    .img7 {
+    }
+    .img8 {
+    }
+    .discount {
+        display: none;
+    }
+    .disc {
+    }
+    .bord {
+    }
+    .disc2 {
+    }
+    .novos {
+    }
+    .contact {
+        display: none;
+
+    }
+    .iphone {
+    }
+    .exmpl {
+    }
+    .iphone1 {
+    }
+    .exmpl1 {
+    }
+    .adress {
+    }
+    .ylica {
+    }
+    .ress {
+    }
+    .rewim {
+    }
+    .timerewim {
+    }
+    .tel {
+    }
+    .zvon {
+    }
+    .yourcell {
+    }
+    .show {
+    }
+    .type {
+    }
+    .text-field__input {
+    }
+    .inpt {
+    }
+    .uber {
+    }
+    .boton {
+    }
+    .foot {
+        max-width: 1000px;
+        min-width: 800px;
+        width: 100%;
+    }
+    .logo2 {
+    }
+    .discription {
+    }
+    .head2 {
+        display: none;
+        }
+    .about11 {
+    }
+    .about12 {
+    }
+    .about13 {
+    }
+    .about14 {
+    }
+    .about15 {
+    }
+    .about16 {
+    }
+    .phone2 {
+    }
+    .popup {
+    }
+    .popup__area {
+    }
+    .popup__body {
+    }
+    .popup__content {
+    }
+    .popup__close {
+    }
+    .popup__text {
+    }
+    .calc-wrapper {
+    }
+    .container {
+    }
+    .heading {
+    }
+    .heading-title {
+    }
+    .heading-desc {
+    }
+    .calc-section {
+    }
+    .checkbox-wrapper {
+    }
+    .title-bold {
+    }
+    .section-title {
+    }
+    ..section-title--vertical-center {
+    }
+    .title__inline {
+    }
+    .input-short {
+    }
+    .range-input {
+    }
+    .rooms-wrapper {
+    }
+    .rooms-label {
+    }
+    .rooms-radio-real {
+    }
+    .rooms-radio-fake {
+    }
+    .radio-wrapper {
+    }
+    .radio {
+    }
+    .title-lite {
+    }
+    .note {
+    }
+    .calc-price {
+    }
+    .calc-price-title {
+    }
+    .calc-price-value {
+    }
+    .itisnot {
+    }
+}
