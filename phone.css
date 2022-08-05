@@ -166,6 +166,7 @@
     .logo2 {
     }
     .discription {
+        display: none;
     }
     .head2 {
         display: none;
